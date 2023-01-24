@@ -144,3 +144,35 @@ h3 {
 .important-skills {
     font-size: 2rem;
 }
+
+.education {
+    background-color: #0092b2;
+    padding: 50px;
+}
+
+.education-pic {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+
+
+}
+
+.education-header {
+    margin-bottom: 100px;
+    color: #90EE90;
+}
+
+.work-history {
+    background-color: #90EE90;
+    padding: 50px;
+}
+
+.last-dots {
+    margin-top: 50px;
+}
+
+.location {
+    margin-bottom: 60px;
+}
