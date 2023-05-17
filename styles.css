@@ -176,3 +176,13 @@ h3 {
 .location {
     margin-bottom: 60px;
 }
+
+.video-container {
+  text-align: center;
+  margin-bottom: 20px; /* Adjust the value to add desired space */
+}
+
+.video-container video {
+  display: block;
+  margin: 0 auto;
+}
